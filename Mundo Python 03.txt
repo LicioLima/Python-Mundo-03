@@ -4,3 +4,6 @@
 - Em Python, uma LISTA é simbolizada por: []
 - Em Python, um DICIONÁRIO é simbolizado por: {}
 - É possível deletar uma TUPLA inteira, mas não elemento específicos: exemplo: pessoa = ('Lício', 32) | del(pessoa[0]) NÃO VAI ACONTECER NADA!
+- O parâmetro (end='') serve para dar um espaço entre um objeto e outro
+- o comando max() serve para mostrar os maiores valores
+- o comando min() serve para mostrar os menores valores
