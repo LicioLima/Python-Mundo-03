@@ -1,0 +1,12 @@
+times = ('Sport', 'Santa-Cruz', 'Naútico', 'Atlético-Mineiro', 'Ibis', 'Ferroviário', 'Fortaleza',
+         'Salgueiro', 'Chapecoense', 'Fluminense', 'Santos', 'Salvador', 'Cruzeiro', 'Colorado')
+print('-=' * 15)
+print(f'Lista de Times do Brasileirão: {times}')
+print('-=' * 15)
+print(f'Os 5 primeiros são {times[0:5]}')
+print('-=' * 15)
+print(f'Os 4 últimos colocados são {times[-4:]}')
+print('-=' * 15)
+print(f'Times em ordem alfabética: {sorted(times)}')
+print('-=' * 15)
+print(f'Posição do chapecoense está na {times.index("Salvador")+1}ºposição')
