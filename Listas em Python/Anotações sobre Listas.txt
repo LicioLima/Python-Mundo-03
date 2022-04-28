@@ -1,0 +1,7 @@
+Anotações sobre Listas:
+
+- lanche.append('cookie'): serve para adcionar um novo item a lista;
+- lanche.insert(0, 'Hot-Dog'): serve para adcionar um item na lista na posição especififcada;
+- Para eliminar pelo conteúdo é .remove, se for pelo ID do objeto, é del.
+- Ex01: del lanche[3]: del lanche[3]
+- Ex02: lanche.remove('Pizza')

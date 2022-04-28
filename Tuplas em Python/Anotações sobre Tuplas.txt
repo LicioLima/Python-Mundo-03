@@ -1,7 +1,6 @@
 
 - Isso significa que quando uma tupla é criada não é possível adicionar, alterar ou remover seus elementos;
 - Em Python, uma TUPLA é simbolizada por: () PS: NO PYTHON 03 ACEITA TUPLA SEM PARÊNTESES
-- Em Python, uma LISTA é simbolizada por: []
 - Em Python, um DICIONÁRIO é simbolizado por: {}
 - É possível deletar uma TUPLA inteira, mas não elemento específicos: exemplo: pessoa = ('Lício', 32) | del(pessoa[0]) NÃO VAI ACONTECER NADA!
 - O parâmetro (end='') serve para dar um espaço entre um objeto e outro
