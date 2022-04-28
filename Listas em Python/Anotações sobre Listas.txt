@@ -5,3 +5,7 @@ Anotações sobre Listas:
 - Para eliminar pelo conteúdo é .remove, se for pelo ID do objeto, é del.
 - Ex01: del lanche[3]: del lanche[3]
 - Ex02: lanche.remove('Pizza')
+- comando .sort(reverse=True)
+- Ex03: valores.sort(reverse=True) = [9,8,5,4,3,2,0]
+- comando .len serve para ver o tamanho da lista
+- isso é fatiamento b = a[:]
