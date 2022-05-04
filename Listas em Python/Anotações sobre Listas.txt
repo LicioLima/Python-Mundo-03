@@ -9,3 +9,4 @@ Anotações sobre Listas:
 - Ex03: valores.sort(reverse=True) = [9,8,5,4,3,2,0]
 - comando .len serve para ver o tamanho da lista
 - isso é fatiamento b = a[:]
+- Enquanto houver muitos dados para ler numa lista, usar (while)
