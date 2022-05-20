@@ -10,3 +10,4 @@ Anotações sobre Listas:
 - comando .len serve para ver o tamanho da lista
 - isso é fatiamento b = a[:]
 - Enquanto houver muitos dados para ler numa lista, usar (while)
+- É possível ter litas, dentro de outra lista.
